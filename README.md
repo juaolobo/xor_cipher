@@ -1,4 +1,4 @@
-% Atividade Prática - Palestra de Cripto HSC
+# Atividade Prática - Palestra de Cripto HSC
 
 Essa atividade foi feita para vocês colocarem a mão na massa um pouco.
 O tipo de criptografia implementado aqui é um tipo que vocês não viram ainda,
