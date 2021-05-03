@@ -1,3 +1,5 @@
+% Atividade Prática - Palestra de Cripto HSC
+
 Essa atividade foi feita para vocês colocarem a mão na massa um pouco.
 O tipo de criptografia implementado aqui é um tipo que vocês não viram ainda,
 a criptografia por meio da operação XOR (XOR Cipher). É sugerido que vocês pesquisem como essa criptografia
